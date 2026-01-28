@@ -1,6 +1,6 @@
 ## Running NetLogo experiments using the BehaviorSpace tool on an HPC cluster headlessly 
 
-Typically, one needs to write a SLURM file to instruct HPC to run a specific experiment within the NetLogo BehaviorSpace tool. This repository contains example SLURM files and line-wise breakdown of the code in the SLURM files. The SLURM files are editable using editors such as Notepad+. Do not use regular Notepad or a regular word editor, as they may introduce extra white spaces. I have set my Notepad+ to UTF-8 encoding (It works on the Linux clusters at my university).
+Typically, one needs to write a SLURM file to instruct HPC to run a specific experiment within the NetLogo BehaviorSpace tool. This repository contains example SLURM files and line-wise breakdown of the code in the SLURM files. The SLURM files are editable using editors such as Notepad+. Do not use regular Notepad or a regular word editor, as they may introduce extra white spaces. I have set my Notepad+ to UTF-8 encoding.
 
 Please visit Netlogo's official page to know more about the BehaviorSpace tool: https://docs.netlogo.org/behaviorspace.
 
